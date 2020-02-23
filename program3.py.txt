@@ -1,0 +1,9 @@
+n1 = input('número 1')
+n2 = input('número 2')
+
+n1 = input('n1')
+n2 = input('n2')
+n3 = n1 + n2
+
+print('A soma é igual a', soma)
+
